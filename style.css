@@ -1,4 +1,8 @@
-@import url("./font/fonts.css");
+﻿@import url("./font/fonts.css");
+
+form[name="form"] .redbox {
+    border: 1px solid red;
+}
 
 /* All styles */
 
